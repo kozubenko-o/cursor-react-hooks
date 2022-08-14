@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cursor-react-hooks/static/css/main.2ee27feb.css",
+    "main.js": "/cursor-react-hooks/static/js/main.ce80f1a3.js",
+    "static/js/787.bc58c241.chunk.js": "/cursor-react-hooks/static/js/787.bc58c241.chunk.js",
+    "index.html": "/cursor-react-hooks/index.html",
+    "main.2ee27feb.css.map": "/cursor-react-hooks/static/css/main.2ee27feb.css.map",
+    "main.ce80f1a3.js.map": "/cursor-react-hooks/static/js/main.ce80f1a3.js.map",
+    "787.bc58c241.chunk.js.map": "/cursor-react-hooks/static/js/787.bc58c241.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ee27feb.css",
+    "static/js/main.ce80f1a3.js"
+  ]
+}
